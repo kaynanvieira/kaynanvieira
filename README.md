@@ -32,8 +32,6 @@ Atualmente, venho aprofundando meus conhecimentos em JavaScript, PHP e Java, al�
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
-**Insomnia** também faz parte das minhas ferramentas de desenvolvimento.
-
 ---
 
 ## 📚 Atualmente estudando
