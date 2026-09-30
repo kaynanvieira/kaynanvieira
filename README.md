@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Kaynan Vieira!
 
 💻 Desenvolvedor e Analista de TI  
-🎓 Graduando em Sistemas de Informação pelo CEFET/RJ  
-🚀 Desenvolvimento Web, Backend e Soluções de Software
+🎓 Graduando em Sistemas de Informação pelo CEFET/RJ
+
+Atuo com desenvolvimento web, backend, bancos de dados e soluções de software,
+transformando conhecimentos técnicos em projetos e soluções práticas.
 
 ---
 
