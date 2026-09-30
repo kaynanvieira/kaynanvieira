@@ -81,8 +81,8 @@ Repositórios com exercícios, projetos acadêmicos e experimentos desenvolvidos
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynanvieirac/)
+[![Gmail](https://img.shields.io/badge/Gmail-kaynan.vieira.c%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaynan.vieira.c@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaynanvieira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaynanvieirac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynanvieirac/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaynan_vieira/)
+[![Instagram](https://img.shields.io/badge/Instagram-kaynan__vieira-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaynan_vieira/)
