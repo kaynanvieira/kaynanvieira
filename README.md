@@ -77,7 +77,7 @@ Repositórios com exercícios, projetos acadêmicos e experimentos desenvolvidos
 
 ## 📊 GitHub
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaynanvieira&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaynanvieira&layout=compact&theme=dark&hide_border=true&langs_count=7"/>
 </div>
