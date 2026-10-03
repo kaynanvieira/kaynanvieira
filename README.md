@@ -77,9 +77,10 @@ Repositórios com exercícios, projetos acadêmicos e experimentos desenvolvidos
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaynanvieira&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaynanvieira&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaynanvieira&layout=compact&theme=dark&hide_border=true&langs_count=7"/>
+</div>
 
 ## 📫 Vamos nos conectar?
 
